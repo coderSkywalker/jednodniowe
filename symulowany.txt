@@ -1,1 +1,4 @@
+
 Dodaję inny text do mojego pliku
+Teraz dokonam wpisu do pliku na branchu feature
+
